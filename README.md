@@ -1,4 +1,4 @@
-### Hi there, I'm Anton.
+# Hi there, I'm Anton.
 
 ---
 
@@ -14,6 +14,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## **My Contacts**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@tonnyprokhorov)
 
 <!--
 **VARPMEN/varpmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
